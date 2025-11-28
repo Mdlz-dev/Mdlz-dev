@@ -28,11 +28,10 @@ Bringing a balance of engineering discipline and practical cybersecurity experie
 🎯 Mission
 
 To deliver high-quality digital solutions that are fast, secure, elegant, and built to scale, while continuously evolving my expertise at the intersection of software engineering and cybersecurity.
-        
+
 📫 Contact
+
 📧 Email: mdlzdev00010011@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/lazeb-el-hannani-mohammed-dev
 🌐 Portfolio: --
-📧 Email: [insert]
-🔗 LinkedIn: [insert]
-🌐 Portfolio: [optional]
+
