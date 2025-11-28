@@ -8,11 +8,11 @@ My work bridges engineering, security, and product quality — ensuring that eve
 
 🛠️ Technical Expertise
 
-Languages: Python • JavaScript/TypeScript • Java
-Frontend: Flutter • React • Angular
-Backend: Node.js • Spring Boot
-Databases: PostgreSQL • MySQL • Supabase
-DevOps / DevSecOps: Docker • GitHub Actions • CI/CD • Secure SDLC
+Languages: Python , JavaScript/TypeScript , Java
+Frontend: Flutter , React • Angular
+Backend: Node.js , Spring Boot
+Databases: PostgreSQL , MySQL , Supabase
+DevOps / DevSecOps: Docker , GitHub Actions , CI/CD 
 Other: API design (REST/RESTful), software security fundamentals, scalable architecture
 
 
