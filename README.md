@@ -5,6 +5,7 @@
 I build scalable, high-performance applications with a cybersecurity-first mindset, combining clean software architecture with modern DevSecOps practices.
 My work bridges engineering, security, and product quality — ensuring that every solution is reliable, maintainable, and built for real-world impact.
 
+
 🛠️ Technical Expertise
 
 Languages: Python • JavaScript/TypeScript • Java
@@ -13,6 +14,7 @@ Backend: Node.js • Spring Boot
 Databases: PostgreSQL • MySQL • Supabase
 DevOps / DevSecOps: Docker • GitHub Actions • CI/CD • Secure SDLC
 Other: API design (REST/RESTful), software security fundamentals, scalable architecture
+
 
 🚀 What I’m great at
 
@@ -26,9 +28,11 @@ Applying DevSecOps principles to improve automation, quality, and application se
 
 Bringing a balance of engineering discipline and practical cybersecurity experience
 
+
 🎯 Mission
 
 To deliver high-quality digital solutions that are fast, secure, elegant, and built to scale, while continuously evolving my expertise at the intersection of software engineering and cybersecurity.
+
 
 📫 Contact
 
